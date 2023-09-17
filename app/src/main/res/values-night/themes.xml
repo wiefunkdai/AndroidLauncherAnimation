@@ -1,0 +1,28 @@
+<!--
+  AndroidLauncherAnimation by Stephanus Dai
+  @fullname : Stephanus Bagus Saputra
+              ( 戴 Dai 偉 Wie 峯 Funk )
+  @email    : wiefunk@stephanusdai.web.id
+  @contact  : http://t.me/wiefunkdai
+  @support  : http://opencollective.com/wiefunkdai
+  @weblink  : http://www.stephanusdai.web.id
+  Copyright (c) ID 2023 Stephanus Bagus Saputra. All rights reserved.
+  Terms of the following https://stephanusdai.web.id/p/license.html
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SplashAnimation" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
